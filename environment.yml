@@ -5,11 +5,12 @@ channels:
 dependencies:
   - pandas
   - jupyter
-  - fastparquet
-  - python-snappy
   - matplotlib
   - appmode
+  - xlrd
   - geopandas
+  - descartes
   - folium
+  - ipyleaflet
   - pysal
 prefix: /Users/edasmalchi/anaconda3/envs/pd1
