@@ -4,10 +4,15 @@ channels:
   - defaults
 dependencies:
   - pandas
-  - fastparquet
   - jupyter
+  - fastparquet
+  - snappy
+  - python-snappy
   - matplotlib
+  - mplcursors
+  - cython
   - appmode
+  - requests
   - xlrd
   - geopandas
   - descartes
