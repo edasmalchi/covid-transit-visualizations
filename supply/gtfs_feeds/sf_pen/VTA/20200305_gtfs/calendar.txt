@@ -1,4 +1,0 @@
-"service_id","monday","tuesday","wednesday","thursday","friday","saturday","sunday","start_date","end_date"
-"Weekdays","1","1","1","1","1","0","0","20191230","20200405"
-"Saturday","0","0","0","0","0","1","0","20191230","20200405"
-"Sunday","0","0","0","0","0","0","1","20191230","20200405"

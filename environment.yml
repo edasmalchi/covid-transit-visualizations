@@ -5,7 +5,12 @@ channels:
 dependencies:
   - pandas
   - jupyter
+  - fastparquet
+  - snappy
+  - python-snappy
   - matplotlib
+  - seaborn
+  - mplcursors
   - appmode
   - xlrd
   - geopandas
