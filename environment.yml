@@ -1,13 +1,14 @@
-name: visualize
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3
-  - geopandas
-  - folium
+  - pandas
   - jupyter
+  - matplotlib
+  - appmode
+  - geopandas
+  - descartes
+  - folium
+  - ipyleaflet
   - pysal
   - fastparquet
   - python-snappy
-prefix: /Users/edasmalchi/anaconda3/envs/visualize
