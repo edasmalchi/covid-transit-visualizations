@@ -6,17 +6,10 @@ dependencies:
   - pandas
   - jupyter
   - fastparquet
-  - snappy
   - python-snappy
   - matplotlib
-  - mplcursors
-  - cython
   - appmode
-  - requests
-  - xlrd
   - geopandas
-  - descartes
   - folium
-  - ipyleaflet
   - pysal
 prefix: /Users/edasmalchi/anaconda3/envs/pd1
