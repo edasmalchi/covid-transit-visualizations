@@ -3,12 +3,3 @@ channels:
 dependencies:
   - pandas
   - jupyter
-  - matplotlib
-  - appmode
-  - geopandas
-  - descartes
-  - folium
-  - ipyleaflet
-  - pysal
-  - fastparquet
-  - python-snappy
