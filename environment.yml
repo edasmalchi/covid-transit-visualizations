@@ -5,3 +5,4 @@ dependencies:
   - jupyter
   - geopandas
   - folium
+  - pysal
