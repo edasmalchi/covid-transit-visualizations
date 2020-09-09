@@ -1,8 +1,16 @@
+name: pd1
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - pandas
   - jupyter
+  - matplotlib
+  - appmode
+  - xlrd
   - geopandas
+  - descartes
   - folium
+  - ipyleaflet
   - pysal
+prefix: /Users/edasmalchi/anaconda3/envs/pd1
