@@ -9,5 +9,5 @@ dependencies:
   - appmode
   - geopandas
   - folium
-  - pysal
+  - pysal=2.3.0
 prefix: /Users/edasmalchi/anaconda3/envs/pd1
