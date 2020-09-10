@@ -7,10 +7,6 @@ dependencies:
   - jupyter
   - matplotlib
   - appmode
-  - xlrd
   - geopandas
-  - descartes
   - folium
-  - ipyleaflet
-  - pysal
 prefix: /Users/edasmalchi/anaconda3/envs/pd1
